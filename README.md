@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - https://www.youtube.com/c/CodMark4
 - 📽 Free Movie Download ...
-- https://nxprime.vercel.app/
+- https://nxprime.site/
 
 <!---
 CodMark/CodMark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
