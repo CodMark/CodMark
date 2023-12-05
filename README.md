@@ -5,7 +5,7 @@
 - 📫 Anime Download telegram Channel
 - https://t.me/anime_nxprime
 - 📽 Free Movie Download ...
-- https://nxprime.site/
+- https://nxprime.in/
 
 <!---
 CodMark/CodMark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
